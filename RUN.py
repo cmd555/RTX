@@ -1,2 +1,2 @@
-from RTX import menu
+from PRINCE import menu
 menu()
